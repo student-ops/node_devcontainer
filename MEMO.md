@@ -1,0 +1,2 @@
+nginx test node,nginxを使用したマルチステージビルドの検証
+docker cacheの使用方法テスト
